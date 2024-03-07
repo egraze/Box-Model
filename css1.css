@@ -4,10 +4,12 @@ body *{
     margin: 5px;
     text-align: center;
     font-size: 2rem;
+    color:green
 }
 
 nav{
     height: 50px;
+    color:green
 }
 
 main{
@@ -15,24 +17,11 @@ main{
     height:100vh;
     display: inline-block;
     border: none;
-}
- 
-aside{
-    float: left;
-    width: 30%;
-    height: 100vh;
+    color: green
 }
 
-aside{
-    float: right;
-    width: 30%;
-    height: 100vh;
-}
-
-section{
-    float: left;
-    width: 35%;
-    height: 100vh;
-    margin-left: 10px;
-    margin-right: 10px;
+section {
+    flex: 2;
+    padding: 300px;
+    color: green;
 }
