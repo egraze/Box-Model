@@ -1,0 +1,42 @@
+body > *{
+    border: 3px solid #0ae76699; 
+    margin: 6px;
+
+}
+
+header{
+    padding: 30px;
+    height: 30px;
+    text-align: center;
+    
+}
+
+nav{
+    padding: 30px;
+    height: 30px;
+    text-align: center;
+    
+}
+main{
+    width: 100% ;
+    display: inline-block;
+    border: none;
+}
+
+aside{ 
+    text-align: center;
+    padding-top: 90px;
+    margin-right: 10px;
+    float: left;
+    width: 50%;
+    width: 726px;
+    height: 50vh;
+    border: 3px solid #0ae76699;
+
+}
+
+footer{
+    padding: 30px;
+    height: 30px;
+    text-align: center ;
+}

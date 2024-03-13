@@ -1,0 +1,70 @@
+body > *{
+    /*border: 3px solid #002c5f99;*/
+
+    background-color: rgb(255, 255, 255);
+}
+ header{
+    padding: 50px;
+    height: 50px;
+    text-align: center;
+    border: 2px solid #020b16;
+ }
+
+ nav{
+    padding: 20px;
+    height: 20px;
+    text-align: center;
+    border: 2px solid #020b16;
+   
+ }
+
+ main{
+    text-align: center;
+    padding-top: 200px;
+    margin: none  ;
+    width: 660px;
+    height: 20vh;
+    border: 4px solid #020b16;
+    float: left;
+    text-align: center;
+ }
+ 
+ .about{
+    height: 20vh;
+    width: 200px;
+    padding-right:200px;
+    border: 4px solid #020b16;
+    float:right;
+    text-align: center;
+    margin: 2px;
+ }
+ .pic{
+    height: 20vh;
+    width: 130px;
+    padding-right:100px;
+    border: 4px solid #020b16;
+    float:right;
+    text-align: center;
+    margin: 3px;
+ }  
+ .recent{
+    height: 28vh;
+    width: 345px;
+    padding-right:300px;
+    border: 4px solid #020b16;
+    float: right;
+    text-align: center;
+    
+ } 
+ footer{
+    
+    width: 1248px;
+    text-align: center;
+    height: 30px;
+    float: inline-end;
+    padding-bottom: 30px;
+    text-align: center;
+    padding: 40px;
+    height: 30px;
+    border: 2px solid #020b16;
+ }
